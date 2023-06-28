@@ -28,6 +28,7 @@ HarukaBot 针对不同的推送场景（粉丝群、娱乐群、直播通知群�
 ## 部分功能展示
 
 ![demo](/docs/.vuepress/public/demo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHChenZi%2FHarukaBot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHChenZi%2FHarukaBot?ref=badge_shield)
 
 ## 特别感谢
 
@@ -47,3 +48,7 @@ HarukaBot 针对不同的推送场景（粉丝群、娱乐群、直播通知群�
 
 ## 许可证
 本项目使用 [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) 作为开源许可证。
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHChenZi%2FHarukaBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHChenZi%2FHarukaBot?ref=badge_large)
